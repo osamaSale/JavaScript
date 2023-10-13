@@ -27,4 +27,4 @@ queue.enqueue("osama")
 queue.enqueue("Ahmad")
 queue.enqueue("Ali")
 
-console.log(queue)
+/* console.log(queue) */
