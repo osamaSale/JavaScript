@@ -1,3 +1,5 @@
 require("./01-Introduction To JavaScript")
 require("./02_Functions In JavaScript")
 require("./03-Conditionals in JavaScript")
+require("./04-Variables In JavaScript")
+require("./05-Arrays in JavaScript")
