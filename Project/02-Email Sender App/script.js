@@ -1,4 +1,4 @@
-emailjs.init("PUBLIC_KEY"); // Replace with your EmailJS User ID
+emailjs.init("iTZ99WGJg9LjnstTr"); // Replace with your EmailJS User ID
 
 const sendBtn = document.querySelector('.send-btn');
 const result = document.querySelector('.result');
@@ -12,7 +12,7 @@ function sendEmail() {
     const message = document.getElementById("message").value;
 
     // Send the email using EmailJS
-    emailjs.send("SERVICE_ID", "TEMPLATE_ID", {
+    emailjs.send("service_sh5yd4f", "template_lb1rrtk", {
         to_email: to,
         subject: subject,
         message: message
