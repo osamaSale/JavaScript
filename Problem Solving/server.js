@@ -54,9 +54,10 @@ const { fun1 } = require("./53-Calculator")
 const { convertToBinary } = require("./54-Convert To Binary")
 const { reverseInteger } = require("./55-Reverse Integer")
 const { floydTriangle } = require("./56-Floyd Triangle")
-const { pascalTriangle } = require("./57-Pascal Triangle")
-const { getSum } = require("./58-Sum Without Operator")
-const { pyramidComplete , pyramidLeft , pyramidRight } = require("./59-Pyramid")
+require("./57-Pascal Triangle")
+require("./58-Sum Without Operator")
+require("./59-Pyramid")
+require("./60-FirstEvenAndSecaundOdd")
 
 
 
